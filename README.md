@@ -14,5 +14,5 @@ Overloaded constructors adalah Konstruktor dengan nama yang sama tetapi tanda ya
 4 Static Imports
 Static import adalah fitur yang diperkenalkan dalam bahasa pemrograman Java yang memungkinkan fields dan methods yang telah ditampung sebagai public static , tanpa menentukan Class dengan field telah ditentukan. 
 
-Addition of a Class into a Package
+5 Addition of a Class into a Package
 Untuk menambahkan kelas Java ke paket, kita harus melakukan dua hal: Letakkan file sumber Java di dalam direktori yang sama. Deklarasikan Class itu sebagai bagian dari package. (extends).
